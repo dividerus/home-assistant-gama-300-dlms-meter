@@ -1,0 +1,7 @@
+{
+  "name": "Gama 300 DLMS Meter",
+  "url": "https://github.com/astraliens/home-assistant-gama-300-dlms-meter",
+  "content_in_root": false,
+  "render_readme": true,
+  "iot_class": "Local Pull"
+}
